@@ -21,6 +21,7 @@ The model use the Biddirectional LSTM, consists of two dense layer with 'ReLU' a
 And then in the process of compiling the model we use 'Adam' optimizer and 'Binary Crossentropy' for the loss function.
 
 **Results:**
+
 ![accuracy](https://github.com/user-attachments/assets/08aa27a9-3c66-40b7-b445-65976bea007e)
 ![loss](https://github.com/user-attachments/assets/f4e0d179-f78f-4caa-b753-fc5fe7792e8f)
 
