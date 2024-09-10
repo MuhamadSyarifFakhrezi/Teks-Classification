@@ -29,4 +29,4 @@ The performance of the model was quite good with 93% accuracy.
 
 ### Try to Predict
 The model was tested using product descriptions that were not used to train the model.
-![Uploading predict.png…]()
+![predict](https://github.com/user-attachments/assets/469cc354-e869-49cc-b2fb-292c424c8b18)
