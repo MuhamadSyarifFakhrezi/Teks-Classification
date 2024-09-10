@@ -26,3 +26,7 @@ And then in the process of compiling the model we use 'Adam' optimizer and 'Bina
 ![loss](https://github.com/user-attachments/assets/f4e0d179-f78f-4caa-b753-fc5fe7792e8f)
 
 The performance of the model was quite good with 93% accuracy.
+
+### Try to Predict
+The model was tested using product descriptions that were not used to train the model.
+![Uploading predict.png…]()
